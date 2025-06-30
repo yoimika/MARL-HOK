@@ -19,4 +19,4 @@ Q(s, a) \approx \sum_i MLP_i(s) Q_i(s_i, a_i)
 Q(s, a) \approx MLP(s) + \sum_i ATTEN_i(s, a) Q_i(s_i, a_i)
 ```
 
-![images](./draw/monster_last_hp.png)
+![images](./draw/imgs/monster_last_hp.png)
